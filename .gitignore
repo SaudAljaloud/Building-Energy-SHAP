@@ -1,0 +1,37 @@
+# Data — never commit raw/clean data
+data/raw/
+data/clean/
+data/external/
+
+# Kaggle credentials — NEVER commit these
+.env
+kaggle.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model binaries (large files)
+outputs/models/*.pkl
+outputs/models/*.joblib
+outputs/models/*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
