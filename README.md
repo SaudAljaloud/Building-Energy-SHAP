@@ -43,7 +43,7 @@ building-energy-shap/
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/YOUR_USERNAME/building-energy-shap.git
+git clone https://github.com/SaudAljaloud/Building-Energy-SHAP
 cd building-energy-shap
 pip install -r requirements.txt
 
