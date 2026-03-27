@@ -2,7 +2,6 @@
 
 A fully reproducible machine learning pipeline for predicting commercial building energy consumption across multiple climate zones, with cross-climate-zone SHAP explainability analysis.
 
-**Paper:** *Building Energy Consumption Prediction Using Gradient Boosting with SHAP Explainability: A Multi-Climate-Zone and Multi-Building-Type Analysis* — submitted to MDPI Applied Sciences.
 
 ---
 
